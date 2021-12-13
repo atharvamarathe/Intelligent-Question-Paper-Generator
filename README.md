@@ -55,6 +55,7 @@ their offspring will be better than parents and
 have better chance at surviving.
 
 ![App Screenshot](./Screenshots/Intro.png)
+
 This process keeps on iterating and at the end, a
 generation with the fittest individuals will be
 found. This notion can be applied for a search

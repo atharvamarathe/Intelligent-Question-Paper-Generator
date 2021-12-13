@@ -1,0 +1,12 @@
+How to run our Project
+
+Install npm 
+
+$ sudo apt install npm
+
+Install dependancies of the project (Ensure you are in the project directory)
+$ npm i
+
+Run the Project
+
+$ npm start

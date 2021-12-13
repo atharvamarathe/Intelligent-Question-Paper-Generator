@@ -1,0 +1,53 @@
+#difficulty {
+  width: 26%;
+  margin-left: 10px;
+}
+
+#marks {
+  width: 26%;
+  margin-left: 71px;
+}
+
+#Question-type {
+  width: 26%;
+  margin-left: 9px;
+}
+
+.question-paramters-1 {
+  display: flex;
+}
+
+/* .question-paramters-1{
+    display: block;
+    align-items: left;
+} */
+/* SingleCorrect */
+.question1 {
+  display: flex;
+}
+
+#question {
+  margin-left: 10px;
+}
+
+#answers {
+  display: flex;
+  padding: 30px;
+}
+
+#SingleCorrectOptions {
+  margin-left: 10px;
+}
+
+.single-correct-answer {
+  width: 26%;
+  margin-left: 10px;
+}
+
+.MultipleCorrectOptions {
+  margin-left: 10px;
+}
+
+#numerical-ans {
+  margin-left: 10px;
+}

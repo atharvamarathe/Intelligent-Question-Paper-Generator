@@ -2,7 +2,7 @@ import logo from "./logo.svg";
 import React, { Component } from "react";
 import "./App.css";
 import Question from "./question";
-import Algorithm from "./geneticAlgo";
+import Algorithm from "./Algorithm";
 import GeneticAlgo from "./GeneticAlgo";
 import AlgoVisualize from "./algoVisualize";
 // import { Route, Router } from "react-router";

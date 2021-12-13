@@ -445,4 +445,4 @@ class Algorithm {
 // let QuestionPaper = algo.Analyse(100, 60, 1.5);
 // console.log(QuestionPaper.length);
 // console.log(algo.analyseQuestionPaper(QuestionPaper));
-module.exports = Algorithm;
+export default Algorithm;

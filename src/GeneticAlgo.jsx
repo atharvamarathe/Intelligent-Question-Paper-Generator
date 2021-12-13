@@ -3,7 +3,7 @@ import Table from "react-bootstrap/Table";
 import TextField from "@material-ui/core/TextField";
 import Typography from "@material-ui/core/Typography";
 import Slider from "@material-ui/core/Slider";
-import Algorithm from "./geneticAlgo";
+import Algorithm from "./Algorithm";
 import { Redirect } from "react-router-dom";
 class GeneticAlgo extends Component {
   constructor() {

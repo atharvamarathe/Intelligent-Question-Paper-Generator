@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Algorithm from "./geneticAlgo";
+import Algorithm from "./Algorithm";
 import { Line } from "react-chartjs-2";
 import TextField from "@material-ui/core/TextField";
 import mutation from "./mutation.png";

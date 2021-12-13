@@ -1,5 +1,7 @@
 # Automated Question Paper Generation using Genetic Algorithm
 
+![App Screenshot](./Screenshots/Screenshot-20211213102753-421x247.png)
+
 ## Installation
 
 ```
@@ -21,13 +23,7 @@
 ![App Screenshot](./Screenshots/Screenshot-20211205123907-1936x1069.png)
 ![App Screenshot](./Screenshots/Screenshot-20211205123925-1936x1069.png)
 ![App Screenshot](./Screenshots/Screenshot-20211205123945-1936x1069.png)
-![App Screenshot](./Screenshots/Screenshot-20211205124009-1936x1069.png)
-![App Screenshot](./Screenshots/Screenshot-20211205124017-1936x1069.png)
 ![App Screenshot](./Screenshots/Screenshot-20211205124033-1936x1069.png)
-
-## Documentation
-
-[Documentation](https://github.com/atharvamarathe/paper-generation-using_ga/blob/master/Sypnosis.pdf)
 
 ## Genetic Algorithm
 
@@ -37,7 +33,6 @@ Examination plays an important role in teaching, paperless automation test becom
 prevalent in all walks of life, rich in questions, and
 Intelligent test paper generation is one of the key
 steps to implement automated test.
-![App Screenshot](./Screenshots/Screenshot-20211213102753-421x247.png)
 
 Intelligent test paper auto-generating is of a high- quality paper which satisfy multiple constraints
 set by professor after selecting questions from the bank of questions. Some algorithms have been considered, such as select-random algorithm, backtrack algorithm, and genetic algorithm.
@@ -58,8 +53,8 @@ characteristics of the parents and will be added to
 the next generation. If parents have better fitness,
 their offspring will be better than parents and
 have better chance at surviving.
-![App Screenshot](./Screenshots/Intro.png)
 
+![App Screenshot](./Screenshots/Intro.png)
 This process keeps on iterating and at the end, a
 generation with the fittest individuals will be
 found. This notion can be applied for a search
@@ -73,3 +68,16 @@ Five phases are considered in a genetic algorithm.
 - Selection
 - Crossover
 - Mutation
+
+### Methodology
+
+![App Screenshot](./Flowchart.jpg)
+
+## Documentation
+
+For more details of the project and Genetic Algorithm  
+[Documentation](https://github.com/atharvamarathe/paper-generation-using_ga/blob/master/Sypnosis.pdf)
+
+## Author
+
+- [Atharva Marathe](https://github.com/atharvamarathe)
